@@ -2,13 +2,14 @@
     width: 400px;
     height: 800px;
     background-color: yellowgreen;
-    padding: 2%;
-    
+    padding: 0%;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .grid div{
     height: 40px;
     width: 40px;
     background-color: red;
-    padding: 2%;
+    padding: 0%;
 }
